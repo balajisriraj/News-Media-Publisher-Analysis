@@ -37,4 +37,4 @@ Install the required packages to run the Notebook
 Python, NLP, Text Processing,Transformers, Huggingface, Web Scraping
 
 ## Screenshots
-![App Screenshot]([https://github.com/balajisriraj/News-Media-Publisher-Analysis/issues/2#issue-1703187017](https://github.com/balajisriraj/News-Media-Publisher-Analysis/issues/2#issue-1703187017))
+![App Screenshot](https://github.com/balajisriraj/News-Media-Publisher-Analysis/issues/2#issue-1703187017)
