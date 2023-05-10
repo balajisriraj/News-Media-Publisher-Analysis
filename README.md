@@ -2,7 +2,7 @@
 # News Media Publisher Analysis
 
 This git repository contains code py files, notebook files, to analyze the Media Publishers in terms of their published articles.
- 
+** This is only a draft copy 
 
 
 ## Project Flow
